@@ -30,8 +30,8 @@ include './component/navbar.php';
                             while($row = mysqli_fetch_assoc($result)){
                                 ?>
                             <tr>
-                                <td><img class="ms-1" width="8%" src="<?php echo $row['img']?>" alt=""></td>
-                                <td class=''><?php echo $row['card_text']?></td>
+                                <td><img class="ms-1" width="5%" src="<?php echo $row['img']?>" alt=""></td>
+                                <td class='align'><?php echo $row['card_text']?></td>
                                 <td><?php echo $row['price']?>,00€</td>
                                 
                             </tr>
@@ -54,7 +54,7 @@ include './component/navbar.php';
 
             <button type="button" class="btn mt-3 button-blue rounded-pill"><a href="./shop_delete.php"class="text-decoration-none text-white">Nová objednávka</a></button>
             <button type="button" class="btn mt-3 button-blue rounded-pill"><a class="text-decoration-none text-white" href="./course.php">Ponuka Kurzov</a></button>
-            <button type="button" class="btn mt-3 button-blue rounded-pill"><a class="text-decoration-none text-white" href="./basket.php">Objednať</a></button>
+            <button type="button" class="btn mt-3 button-blue rounded-pill"><a class="text-decoration-none text-white" href="./error.php">Objednať</a></button>
           </div>
             <div class="huge-spacer"></div>
 <?php include './component/footer.php';?>

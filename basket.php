@@ -12,7 +12,7 @@ include "./component/navbar.php";
       <h2 class="fs-1 text-primary-emphasis center fw-bold mt-5 mb-5">Nákupný košík</h2>
       <p class="card-text fs-5 lh-lg text-center"><b>Váš košík je zatiaľ prázdny</b><br> Vy to ale môžete zmeniť! Vyberte si z našej ponuky.</p>
       <div class="center">
-        <a href="course.php"><button class="btn button-blue rounded-pill" >Pokračovať v nákupe</button></a>
+        <a href="course.php"><button class="btn button-blue rounded-pill text-white" >Pokračovať v nákupe</button></a>
 
       </div>
     </div>

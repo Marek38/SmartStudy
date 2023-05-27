@@ -27,6 +27,7 @@ include "./component/navbar.php";
 
 <div class="container"> 
     <h2 class="center text-primary-emphasis fs-1 fw-bold mb-5 ">Náš tím</h2>
+    <div class="spacer"></div>
     <div class="row">
         <div class="col-3">
             <img class="img-fluid rounded-circle" src="image\zam1.png" alt="">
@@ -65,7 +66,7 @@ include "./component/navbar.php";
       <input type="text" class="form-control border-white bg-white section-blue border border-top-0 border-end-0 border-start-0 " id="formGroupExampleInput" placeholder="E-mail *">
     </div> 
     </div>
-    <a href="contact.php"><button type="button" class="btn mb-5 mt-5 button-white rounded-pill">Odoslať</button></a>
+    <button type="button" class="btn mb-5 mt-5 button-white rounded-pill"><a class="text-decoration-none text-black" href="contact.php">Odoslať</a></button>
   </div>
 
 <?php

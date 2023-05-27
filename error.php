@@ -8,9 +8,9 @@ include "./component/navbar.php";
 ?>
 <div class="big-spacer"></div>
 <div class="container">
-    <h2 class="blue d-flex justify-content-center text-center text-primary-emphasis fs-1 fw-bold">EROR 404</h2>
-    <h3 class="blue d-flex justify-content-center text-center fs-2">Page not found</h3>
-    <p class="blue d-flex justify-content-center text-center fs-4">We're sorry, the page you were looking for isn't found here. The link you followed may either be broken or no longer exists. Please try again, or take a look at our.</p>
+    <h2 class="blue d-flex justify-content-center huge text-center text-primary-emphasis fs-1 fw-bold">404</h2>
+    <div class="spacer"></div>
+    <h3 class="blue d-flex justify-content-center big text-center text-primary-emphasis fs-2">Page not found</h3>
 
 </div>
 <div class="huge-spacer"></div>

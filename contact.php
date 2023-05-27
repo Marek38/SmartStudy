@@ -39,7 +39,7 @@ include "./component/navbar.php";
   <div class="row"></div>
   <div class="col-6">
   <div class="col-6"></div>
-    <button type="submit" class="btn button-blue rounded-pill">Odoslať</button>
+    <button type="submit" class="btn button-blue text-white rounded-pill">Odoslať</button>
   </div>
 </form>
 </div>

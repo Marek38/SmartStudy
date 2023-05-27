@@ -13,17 +13,17 @@ include "./component/navbar.php";
   <h2 class="fs-1 text-primary-emphasis center  fw-bold mt-5">Naša ponuka</h2>
   <div class="spacer"></div>
   <div class="row">
-    <a class="col-4 text-decoration-none" href="course_basic.php">
+    <a class="col-4 text-decoration-none course" href="course_basic.php">
       <img class="img-fluid" src="image\windows.webp" alt="">
       <h3 class="text-black center fw-bold fs-5">Informatika inak Základ</h3>
       <p class='text-secondary center fs-5 '>45,00 €</p>
     </a>
-    <a class="col-4 text-decoration-none" href="course_one.php">
+    <a class="col-4 text-decoration-none course" href="course_one.php">
       <img class="img-fluid" src="image\office.webp" alt="">
       <h3 class="text-black center fw-bold fs-5">Informatika inak I.</h3>
       <p class='text-secondary center fs-5 '>75,00 €</p>
     </a>
-    <a class="col-4 text-decoration-none" href="course_two.php">
+    <a class="col-4 text-decoration-none course" href="course_two.php">
       <img class="img-fluid" src="image\html5.webp" alt="">
       <h3 class="text-black center fw-bold fs-5">Informatika inak II.</h3>
       <p class='text-secondary center fs-5 '>120,00 €</p>

@@ -35,7 +35,7 @@ include "./component/navbar.php";
             <input type="hidden" name="img" value="./image/office.webp">
             <input type="hidden" name="card_text" value="Informatika inak Základ">
             <input type="hidden" name="price" value="45">
-            <button type="submit" class="btn mt-3 button-blue rounded-pill">Do košíka</button>
+            <button type="submit" class="btn mt-3 text-white button-blue rounded-pill">Do košíka</button>
         </form>
     </div>
 </div>

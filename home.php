@@ -137,6 +137,7 @@ include "./component/navbar.php";
 
 <div class="container"> 
     <h2 class="center text-primary-emphasis fs-1 fw-bold mb-5 ">Náš tím</h2>
+    <div class="spacer"></div>
     <div class="row">
         <div class="col-3">
             <img class="img-fluid rounded-circle" src="image\zam1.png" alt="">
@@ -163,7 +164,7 @@ include "./component/navbar.php";
         </div>
     </div>
     <div class="row justify-content-center">
-        <button type="button" class="btn mt-5 button-black rounded-pill col-2 "><a class="text-decoration-none text-white" href="about.php">Chcem byť expert</a></button>
+        <button type="button" class="btn mt-5 button-blue rounded-pill col-2 "><a class="text-decoration-none text-white" href="about.php">Chcem byť expert</a></button>
     </div>
 </div>
 
