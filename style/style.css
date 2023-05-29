@@ -156,3 +156,8 @@
 .big {
     scale: 2.5;
 }
+
+.warning {
+    display: flex;
+    justify-content: center;
+}

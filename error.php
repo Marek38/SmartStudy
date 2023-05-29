@@ -8,9 +8,12 @@ include "./component/navbar.php";
 ?>
 <div class="big-spacer"></div>
 <div class="container">
-    <h2 class="blue d-flex justify-content-center huge text-center text-primary-emphasis fs-1 fw-bold">404</h2>
+  <div class="row">
+
+    <h2 class="blue d-flex justify-content-center big text-center text-primary-emphasis fs-2 fw-bold">Ospravedlňujeme sa</h2>
     <div class="spacer"></div>
-    <h3 class="blue d-flex justify-content-center big text-center text-primary-emphasis fs-2">Page not found</h3>
+    <h3 class="blue d-flex justify-content-center big text-center text-primary-emphasis fs-5">Proces spracovania objednávky<br> zlyhal,  skúste to neskôr prosím...</h3>
+  </div>
 
 </div>
 <div class="huge-spacer"></div>
